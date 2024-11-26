@@ -26,5 +26,5 @@ The image above shows the architecture of the PDF Query Tool. It consists of the
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DocuSift.git
+   git clone https://github.com/Chandrashekhar569/PDF_Rag_App.git
    
